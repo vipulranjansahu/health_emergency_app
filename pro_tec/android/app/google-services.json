@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968588847803",
+    "project_id": "pro-tec-f55c0",
+    "storage_bucket": "pro-tec-f55c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968588847803:android:ea47169e8dfdb77b9c179e",
+        "android_client_info": {
+          "package_name": "com.example.pro_tec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968588847803-fan5nufe05qu000l6f42l98lp427lu55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVxXrJuNOjApYab4UQBqfwlBgf9PUGNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968588847803-fan5nufe05qu000l6f42l98lp427lu55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
